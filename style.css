@@ -1,0 +1,15 @@
+body {
+  background: lightblue;
+  color: navy;
+  font-family: Georgia;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Pacifico';
+  color: darkred;
+}
+
+img {
+  width: 250px;
+}
